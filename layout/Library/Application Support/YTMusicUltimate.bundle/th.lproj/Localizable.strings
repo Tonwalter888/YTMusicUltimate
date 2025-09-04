@@ -18,8 +18,8 @@
 "DOWNLOAD_COVER_DESC" = "เพิ่มตัวเลือกการดาวน์โหลดปกเพลงโดยกดปุ่ม YTMusicUltimate ในเครื่องเล่น";
 "PLAYBACK_RATE_BUTTON" = "แสดงความเร็วการเล่นเพลง";
 "PLAYBACK_RATE_BUTTON_DESC" = "ปรับเปลี่ยนความเร็วการเล่นเพลง";
-"SELECTABLE_LYRICS" = "Lyrics text selection";
-"SELECTABLE_LYRICS_DESC" = "Enables text selection for lyrics";
+"SELECTABLE_LYRICS" = "เลือกข้อความจากเนื้อเพลง";
+"SELECTABLE_LYRICS_DESC" = "เปิดใช้งานการเลือกข้อความจากเนื้อเพลง";
 "VOLBAR" = "แถบเสียง";
 "VOLBAR_DESC" = "เพิ่มแถบเสียงไปในเครื่องเล่น";
 "NO_AUTORADIO" = ปิดใช้งานวิทยุ";
@@ -32,13 +32,13 @@
 
 "SKIP_NONMUSIC_PARTS" = "SponsorBlock";
 "SKIP_NONMUSIC_PARTS_DESC" = "ข้ามส่วนที่ไม่ใช่เพลงในมิวสิกวิดีโอ";
-"SB_BEHAVIOR" = "Behavior";
+"SB_BEHAVIOR" = "พฤติกรรม";
 "SB_SKIP" = "ข้าม";
 "SB_ASK" = "ถาม";
 "SB_NOTIF_DURATION" = "ระยะเวลาการแจ้งเตือน (วินาที)";
 
-"SEEK_BUTTONS" = "Replace next/previous with forward and backward buttons";
-"SEEK_TIME_FOOTER" = "Select a seek time in seconds\n\nDefaults:\nSeek backward = 10 sec.\nSeek forward = 30 sec.\n\nSkip to the next and previous tracks available by long-pressing the buttons.";
+"SEEK_BUTTONS" = "เปลี่ยนปุ่มถัดไป/ก่อนหน้าด้วยปุ่มไปข้างหน้า/ถอยหลัง";
+"SEEK_TIME_FOOTER" = "เลือกเวลาเลื่อนเป็นวินาที\n\nค่าเริ่มต้น:\nเลื่อนถอยหลัง 10 วินาที\เลื่อนไปข้างหน้า 30 วินาที\n\nข้ามไปเพลงถัดไปและก่อนหน้าโดยแตะปุ่มค้างไว้";
 "DEFAULT" = "ค่าเริ่มต้น";
 
 "THEME_SETTINGS" = "ตัวเลือกธีม";
@@ -46,18 +46,18 @@
 "OLED_DARK_THEME_DESC" = "เปิดใช้งานธีมมืด OLED";
 "OLED_DARK_KEYBOARD" = "คีย์บอร์ดมืด OLED";
 "OLED_DARK_KEYBOARD_DESC" = "เปิดใช้งานคีย์บอร์ดมืด OLED";
-"LOW_CONTRAST" = "Low contrast";
-"LOW_CONTRAST_DESC" = "Lower contrast for text and buttons";
+"LOW_CONTRAST" = "คอนทราสต์ต่ํา";
+"LOW_CONTRAST_DESC" = "คอนทราสต์ต่ําสําหรับข้อความและปุ่ม";
 
 "NAVBAR_SETTINGS" = "ตัวเลือกแถบนำทาง";
-"DONT_STICK_HEADERS" = "Dont stick headers";
-"DONT_STICK_HEADERS_DESC" = "Unsticks pinned at the top of the screen panels";
+"DONT_STICK_HEADERS" = "ไม่ล็อกโลโก้ Youtube Music";
+"DONT_STICK_HEADERS_DESC" = "เอาล็อกโลโก้ออกที่ด้านบนของหน้าจอ";
 "HIDE_HISTORY_BUTTON" = "ซ่อนปุ่มประวัติ";
 "HIDE_HISTORY_BUTTON_DESC" = "ซ่อนปุ่มประวัติในแถบนำทาง";
 "HIDE_CAST_BUTTON" = "ซ่อนปุ่มแคสต์";
 "HIDE_CAST_BUTTON_DESC" = "ซ่อนปุ่มแคสต์ในแถบนำทาง";
-"HIDE_FILTER_BUTTON" = "Remove sort filter button";
-"HIDE_FILTER_BUTTON_DESC" = "Removes Library/Downloads filter button from the navigation bar";
+"HIDE_FILTER_BUTTON" = "เอาปุ่มตัวกรองออก";
+"HIDE_FILTER_BUTTON_DESC" = "เอาปุ่มตัวกรองออกจากคลังเพลงในแถบนำทาง";
 
 "TABBAR_SETTINGS" = "ตัวเลือกแท็บบาร์";
 "STARTUP_TAB" = "แท็บเริ่มต้นตอนเปิดแอบ";
@@ -85,8 +85,8 @@
 "TWITTER_DESC" = "ติดตามผมสำหรับอัพเดทใหม่";
 "DISCORD" = "เข้าร่วมดิสคอร์ด";
 "DISCORD_DESC" = "แจ้งปัญหาและเสนอฟีเจอร์ใหม่";
-"SOURCE_CODE" = "Source code";
-"SOURCE_CODE_DESC" = "...";
+"SOURCE_CODE" = "ซอสต์โค้ด";
+"SOURCE_CODE_DESC" = "ลองเข้าไปดูโค้ดสิ";
 
 "CLOSE" = "ปิด";
 "WARNING" = "คำเตือน";
@@ -97,17 +97,17 @@
 "YES" = "ใช่";
 "REGIONAL_RESTRICTION" = "ดูเหมือนว่าจะไม่สามารถเข้าถึง Youtube Music ได้ในประเทศของคุณ\n\n กรุณาใช้ VPN เพื่อเข้าถึง Youtube Music";
 
-"DONT_RUSH" = "Don't rush brilliance";
-"DONT_RUSH_DESC" = "Required to play the song to extract the link";
-"SELECT_ACTION" = "Select Action";
+"DONT_RUSH" = "ไม่ฉลาดเกิน";
+"DONT_RUSH_DESC" = "จำเป็นต้องเล่นเพลงเพื่อแตกลิงค์";
+"SELECT_ACTION" = "เลือกการกระทำ";
 "DOWNLOAD_PREMIUM" = "ดาวน์โหลด (ต้องมีพรีเมียม)";
 "DOWNLOADING" = "กำลังดาวน์โหลด";
 "OOPS" = "โอ๊ะ!\nมีบางอย่างผิดพลาด";
 "LINK_NOT_FOUND" = "ไม่พบลิงค์";
 "SAVED_TO_PHOTOS" = "บันทึกไปยังคลังรูปภาพแล้ว";
 "DONE" = "เสร็จ";
-"FOUND_SEGMENT" = "Found offtopic segment";
-"SEGMENT_SKIPPED" = "Offtopic has been skipped";
+"FOUND_SEGMENT" = "เจอช่วงที่ออกนอกหัวข้อ";
+"SEGMENT_SKIPPED" = "ข้ามช่วงที่ออกนอกหัวข้อแล้ว";
 "SKIP" = "ข้าม";
 "UNSKIP" = "ไม่ข้าม";
 
