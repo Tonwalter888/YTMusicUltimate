@@ -68,10 +68,10 @@
 "DOWNLOADS" = "ดาวน์โหลด";
 
 "TAB_SETTINGS" = "การตั้งค่าแท็บ";
-"REMOVE_TABBAR_LABELS" = "ซ่อนชื่อของแถบนั้นๆ (หน้าแรก,ลองฟัง ฯลฯ)";
+"REMOVE_TABBAR_LABELS" = "ซ่อนชื่อของแท็บนั้นๆ (หน้าแรก,ลองฟัง ฯลฯ)";
 "HIDE_HOME" = "ซ่อนแท็บหน้าหลัก";
 "HIDE_SAMPLES" = "ซ่อนแท็บลองฟัง";
-"HIDE_EXPLORE" = "ซ่อนแท็กสำรวจ";
+"HIDE_EXPLORE" = "ซ่อนแท็บสำรวจ";
 "HIDE_LIBRARY" = "ซ่อนแท็บคลังเพลง";
 "HIDE_DOWNLOADS" = "ซ่อนแท็บดาวน์โหลด";
 
